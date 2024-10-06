@@ -125,7 +125,7 @@ work="""
 </ul>
 
 """
-st.markdown(list,unsafe_allow_html=True)
+st.markdown(work,unsafe_allow_html=True)
 
 st.subheader("Contact")
 con="""
